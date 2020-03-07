@@ -10,6 +10,7 @@ int main()
   z = x + y;
 
   printf("Sum of the numbers = %d\n", z);
+    printf("summed succesfully");
 
   return 0;
 }
